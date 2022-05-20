@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "62de677343eac610",
+    "type": "split",
+    "children": [
+      {
+        "id": "0521c1614c8c1c95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Requirements List.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00f55a51569d4d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbaa6aebef53cd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc95005cf74c8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d487822a02988d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd852a53eaa86e1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a6e39b0897e4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8aef6e49a44de14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Requirements List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0521c1614c8c1c95",
+  "lastOpenFiles": [
+    "Requirements List.md"
+  ]
+}
