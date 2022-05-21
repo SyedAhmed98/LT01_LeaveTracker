@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LeaveTracker
 build_property.RootNamespace = LeaveTracker
-build_property.ProjectDir = E:\Development\Leave Tracker\Project\LeaveTracker\LeaveTracker\
+build_property.ProjectDir = e:\Development\LT01_LeaveTracker\Project\LeaveTracker\LeaveTracker\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Development\Leave Tracker\Project\LeaveTracker\LeaveTracker
+build_property.MSBuildProjectDirectory = e:\Development\LT01_LeaveTracker\Project\LeaveTracker\LeaveTracker
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/Home/Index.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/Home/Privacy.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/Shared/Error.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/_ViewImports.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/_ViewStart.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Development/Leave Tracker/Project/LeaveTracker/LeaveTracker/Views/Shared/_Layout.cshtml]
+[e:/Development/LT01_LeaveTracker/Project/LeaveTracker/LeaveTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pl4bapg1av
